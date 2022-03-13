@@ -8,3 +8,6 @@ This is just a bot I created for fun and decided to make it public so that you c
 - Run `npm install`
 - Fill all details in `config.json`
 - Run bot using `node index.js`
+
+# 🥺 Join Us
+Join our server and help us to grow : [Ctk's Server](https://2vr8.short.gy/discord) 
