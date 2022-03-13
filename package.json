@@ -1,0 +1,24 @@
+{
+  "name": "insta-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "canvas": "^2.8.0",
+    "cheerio": "^1.0.0-rc.10",
+    "instagram-web-api": "^2.2.2",
+    "jimp": "^0.16.1",
+    "tough-cookie-filestore2": "^1.0.0"
+  }
+}
